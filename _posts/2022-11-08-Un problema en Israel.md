@@ -5,7 +5,7 @@ title: Los seculares y los religiosos en Israel no pueden aguantarse unos a otro
 
 Por Samuel David, traducido el  08 Nov 2022.
 
-![judios ortodoxos](https://github.com/sjudios/sjudios.github.io/blob/master/images/images-08-11-2022/ortodoxos-vs-seculares2.jpg)
+![judios ortodoxos](/images/images-08-11-2022/ortodoxos-vs-seculares2.jpg)
 
 Los seculares y los religiosos en Israel no pueden aguantarse unos a otros. En la medida en que los padres seculares, al considerar a un compañero de vida para sus hijos, preferirían un cristiano a un ultraortodoxo. ¿Se pueden construir puentes sobre el odio?
 En un corto período de la historia moderna, el Estado de Israel ha logrado logros impresionantes. Tenemos éxito en casi todo, excepto en una sola área: la clave, que subyace a todas las otras. Nuestro talón de Aquiles son relaciones humanas. Desde el resurgimiento del país, no hemos logrado convertirnos en un solo pueblo unido. Y si no corrigimos la situación de hoy, Israel puede desaparecer del mapa del mundo.

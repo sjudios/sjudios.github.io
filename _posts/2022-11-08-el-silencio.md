@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Los Beneficios del Silencio en el judaismo.
+title: Los Beneficios del Silencio en el judaísmo.
 ---
 
 Por Samuel David, traducido el  08 Nov 2022.

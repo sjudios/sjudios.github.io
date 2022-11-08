@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 
-Los seculares y los religiosos en Israel no pueden aguantarse unos a otros.
+title: Los seculares y los religiosos en Israel no pueden aguantarse unos a otros.
 ---
 
 Por Samuel David, traducido el  08 Nov 2022.

@@ -1,0 +1,32 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id}}" frameborder="0" allowfullscreen></iframe>
+
+<<!-- {% include youtube_embed.html id="" %} -->
+
+<!--Here’s an example to embed a random Youtube video to this Jekyll blog post.
+
+Youtube video I want to embed to this blog post: https://www.youtube.com/watch?v=6EVs0BrG57I
+
+The typical way we embed Youtube video is by copy and pasting the embed codes from the Youtube video’s share options: <iframe width="560" height="315" src="https://www.youtube.com/embed/6EVs0BrG57I" frameborder="0" allowfullscreen></iframe>
+
+But, apparently we can’t just insert this code into Jekyll’s blog post using markdown. So an easy way I’ve found is to create a HTML file with the embed code snippet and call it from the blog post. Here’s how I did it:
+
+1) In your Jekyll website folder, go to or create a folder called _includes. This folder will let you include any files located here into your markdown posts using liquid.
+
+2) Create a HTML file named youtube_embed.html in the _includes folder.
+
+3) Now, we’ll add in the iframe codes from the Youtube embed link and add some subtle liquid codes to this html file so we can make this code work with any Youtube video embeds by defining the video ID. From the above video embed, the video id is 6EVs0BrG57I. It is code that comes after /embed/ in the youtube link. So in the youtube_embed.html file, we’ll add in the following codes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6EVs0BrG57I" frameborder="0" allowfullscreen></iframe>
+4) Then, we’ll replace the youtube video id with liquid codes {{ include.id }}. This will let us define the Youtube id whenever we want to embed a video in any future blog posts. So now in the youtube_embed.html file, you will have the following codes in it:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+5) Now, we are ready to add the youtube video to this blog post. In the blog post markdown file, go to where you want to embed the youtube video and insert the following line:
+
+{% include youtube_embed.html id="" %}  
+6) Remember where your Youtube id? Copy it and you are now ready to add in the Youtube id in the id field, like this:
+
+{% include youtube_embed.html id="6EVs0BrG57I" %}  
+7) Load up jekyll serve and see if you are now seeing the Youtube embedded video in your blog post… and you’re done!
+
+-->
+

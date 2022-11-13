@@ -27,8 +27,6 @@ Las fuerzas rusas han estado construyendo fortificaciones y líneas defensivas e
 
 EL Presidente Ucraniano Volodimir Zelensky ha llamado a la cautela por la retoma de la ciudad. Los informes y videos de diversos medios de comunicación occidentales que han llegado con las tropas ucranianas, revelan que la gente ha salido a recibir emocionados a los soldados ucranianos.
 
-{% include youtube_embed.html id="FV3RohlWmZI" %} 
-
 Las tropas ucranianas han estado atacando puentes, transbordadores y pontones en las últimas semanas, intentando hacer insostenibles las posiciones rusas en el lado oeste del río y, por lo tanto, forzar una retirada.
 
 También en el sur, la Agencia Internacional de Energía Atómica (OIEA) ha pedido la desmilitarización de la central nuclear de Zaporizhzhia.

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Rusia dice que ha completado la retirada de Kherson.
+date: 2022-11-12
+author: Samuel David
+categories : guerra, ucrania, rusia, invasion, retirada, ocupación, kherson, jerson.
 ---
-
-Por Samuel David, editado el  12 Nov 2022.
 
 ![Kherson](/images/11-11-2022/kherson.png)
 
